@@ -1,0 +1,5 @@
+Ola ${PERSON_NAME}, 
+
+sua inscrição foi recebida e sua entrevista será no dia ${INTERVIEW_DATE}.
+
+Obrigado!
