@@ -1,4 +1,0 @@
-https://forms.gle/atzHta3ec2wPN1UHA
-Problem: have an email sent everytime someone fills a form on google based on the spreadsheet generated
-Constraint: we need to consider a date deadline as this will read the whole file once and send the emails once
-TODO: add value to row to indicate and email was already sent or not, then the constraint can be disregarded
